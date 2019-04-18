@@ -1,4 +1,2 @@
-sample-repository
-=================
+# Initial page
 
-sample repository to test integration
